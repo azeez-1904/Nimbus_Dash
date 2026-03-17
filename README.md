@@ -96,9 +96,9 @@ Here are some ideas to customize:
 ## Credits
 
 - Built with [Unity](https://unity.com/)
-- Inspired by Flappy Bird by Dong Nguyen
+- Inspired by Flappy Bird
 - DBZ characters and concepts belong to Akira Toriyama / Toei Animation
 
-## License
+## Use
 
 This project is for educational and personal use. Feel free to clone, modify, and learn from it!
