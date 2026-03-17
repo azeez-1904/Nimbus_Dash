@@ -59,7 +59,7 @@ Assets/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/azeez-1904/-Kinto-Un-Dash.git
+   git clone https://github.com/azeez-1904/Nimbus_Dash.git
    ```
 
 2. **Open in Unity**
